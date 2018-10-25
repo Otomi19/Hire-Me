@@ -1,0 +1,33 @@
+img{
+    width: 200px;
+}
+#head{
+    font-family: 'Satisfy', cursive;
+}
+h2{
+    font-family: 'Satisfy', cursive;
+}
+p{
+    font-family: 'Cookie', cursive;
+    font-size:25px ;
+}
+ol{
+    font-family: 'Cookie', cursive;
+    font-size:25px;
+}
+ul{
+    font-family: 'Cookie', cursive;
+    font-size:25px;
+}
+body{
+    background-color:grey;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border:double;
+    background-color:yellow;
+}
+#header{
+    font-family: 'Luckiest Guy', cursive;
+}
